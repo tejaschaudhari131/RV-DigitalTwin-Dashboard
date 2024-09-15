@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/RV-DigitalTwin-Dashboard/static/css/main.1b2de0be.css",
+    "main.js": "/RV-DigitalTwin-Dashboard/static/js/main.27e96920.js",
+    "index.html": "/RV-DigitalTwin-Dashboard/index.html",
+    "main.1b2de0be.css.map": "/RV-DigitalTwin-Dashboard/static/css/main.1b2de0be.css.map",
+    "main.27e96920.js.map": "/RV-DigitalTwin-Dashboard/static/js/main.27e96920.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1b2de0be.css",
+    "static/js/main.27e96920.js"
+  ]
+}
